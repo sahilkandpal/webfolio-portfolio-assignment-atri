@@ -1,6 +1,4 @@
-# Personal blog website
-
-Webfolio portfolio clone assignment
+# Webfolio portfolio clone assignment
 
 ## How to use this app?
 
