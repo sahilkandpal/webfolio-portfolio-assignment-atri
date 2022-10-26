@@ -1,9 +1,4 @@
-# Personal blog website
-
-Webfolio portfolio clone assignment
-
-## Deployed app
-https://sahilkandpal.github.io/webfolio-portfolio-assignment-atri
+# Webfolio portfolio clone assignment
 
 ## How to use this app?
 
