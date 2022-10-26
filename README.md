@@ -2,9 +2,6 @@
 
 Webfolio portfolio clone assignment
 
-## Deployed app
-https://sahilkandpal.github.io/webfolio-portfolio-assignment-atri
-
 ## How to use this app?
 
 ### Step 1: Setup
