@@ -1,4 +1,4 @@
-# Webfolio portfolio clone assignment
+# Webfolio portfolio clone assignment (Responsive)
 
 ## How to use this app?
 
